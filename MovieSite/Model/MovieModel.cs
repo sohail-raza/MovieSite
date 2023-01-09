@@ -8,5 +8,6 @@
         public string Author { get; set; }
         public int ImageId { get; set; }
         public int Ranking { get; set; }
+        public int MovieType { get; set; }
     }
 }
